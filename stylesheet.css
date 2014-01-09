@@ -1,0 +1,11 @@
+div#intro-box {
+	
+}
+
+div#intro {
+	text-align: justify;
+	vertical-align: top;
+	width: 90%;
+	font-size: 150%;
+	margin: 0, auto;
+}
