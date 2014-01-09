@@ -1,3 +1,8 @@
+div#main-container {
+	margin: 0 auto;
+	width: 800px;
+}
+
 div#intro-box {
 	padding: 0.5em 1em;
 	vertical-align: middle;
@@ -17,12 +22,14 @@ div#text-right {
 	text-align: right;
 }
 
-div#wiki-images {
+
+section {
 	width: 100%;
-	margin: 0 auto;
+	display: block;
 }
 
 div.wikipages {
-	width: 25%;
-	margin: 0 auto;
+	display: inline-block;
+	width: 24%;
+	
 }
