@@ -34,7 +34,7 @@ section {
 
 div.wikipages {
 	display: inline-block;
-	width: 24%;
+	width: 24.72%;
 	
 }
 
@@ -43,6 +43,7 @@ div#footer {
 	text-align: center;
 }
 
-div#footer ul {
+div#footer ul li {
 	display: inline;
+	margin: 0 10px;
 }
