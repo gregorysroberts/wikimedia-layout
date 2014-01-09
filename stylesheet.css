@@ -1,11 +1,28 @@
 div#intro-box {
-	
+	padding: 0.5em 1em;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 150%;
 }
 
 div#intro {
 	text-align: justify;
 	vertical-align: top;
 	width: 90%;
-	font-size: 150%;
 	margin: 0, auto;
+}
+
+div#text-right {
+	font-weight: bold;
+	text-align: right;
+}
+
+div#wiki-images {
+	width: 100%;
+	margin: 0 auto;
+}
+
+div.wikipages {
+	width: 25%;
+	margin: 0 auto;
 }
