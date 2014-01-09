@@ -4,7 +4,7 @@ body {
 
 div#main-container {
 	margin: 0 auto;
-	width: 1080px;
+	width: 80%;
 }
 
 div#intro-box {
@@ -26,6 +26,9 @@ div#text-right {
 	text-align: right;
 }
 
+div#pictures-section {
+	width: 100%;
+}
 
 section {
 	width: 100%;
@@ -34,13 +37,15 @@ section {
 
 div.wikipages {
 	display: inline-block;
-	width: 24.72%;
+	width: 24.7%;
 	
 }
 
 div#footer {
 	border-top: 1px solid #AAAAAA;
 	text-align: center;
+	margin: 10px 0 0 0;
+	width: 90%;
 }
 
 div#footer ul li {
